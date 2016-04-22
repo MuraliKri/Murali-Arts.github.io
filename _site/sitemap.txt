@@ -5,7 +5,7 @@ http://username.github.io/categories
 http://username.github.io/contact/
 http://username.github.io/bio/
 http://username.github.io/works/
-http://username.github.io/shop/
+http://username.github.io/news/
 http://username.github.io/video/
 http://username.github.io/
 http://username.github.io/pages
