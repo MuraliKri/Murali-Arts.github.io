@@ -29,11 +29,10 @@ h1, h2, h3, h4 {
 }
 
 .works .level a img {
-  width: 250px;
-  height: 200px;
   display: inline-block;
   vertical-align: top;
   margin-bottom: 5px;
+  height: initial;
 }
 
 .news a img {
@@ -159,3 +158,31 @@ ul li a{
   .page-header {
     text-align: center;
   }
+
+
+.grid {
+  background: #DDD;
+}
+
+/* clear fix */
+.grid:after {
+  content: '';
+  display: block;
+  clear: both;
+}
+
+/* ---- .grid-item ---- */
+
+.grid-sizer,
+.grid-item {
+  width: 33.333%;
+}
+
+.grid-item {
+  float: left;
+}
+
+.grid-item a img {
+  display: block;
+  width: 100%;
+}

@@ -1,14 +1,14 @@
 
-http://username.github.io/archive
-http://username.github.io/atom.xml
-http://username.github.io/categories
-http://username.github.io/contact/
-http://username.github.io/bio/
-http://username.github.io/works/
-http://username.github.io/news/
-http://username.github.io/video/
-http://username.github.io/
-http://username.github.io/pages
-http://username.github.io/rss.xml
-http://username.github.io/sitemap.txt
-http://username.github.io/tags
+http://muralikrishnaart.com/archive
+http://muralikrishnaart.com/atom.xml
+http://muralikrishnaart.com/categories
+http://muralikrishnaart.com/contact/
+http://muralikrishnaart.com/bio/
+http://muralikrishnaart.com/works/
+http://muralikrishnaart.com/news/
+http://muralikrishnaart.com/video/
+http://muralikrishnaart.com/
+http://muralikrishnaart.com/pages
+http://muralikrishnaart.com/rss.xml
+http://muralikrishnaart.com/sitemap.txt
+http://muralikrishnaart.com/tags

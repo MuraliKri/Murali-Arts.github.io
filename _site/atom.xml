@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  
  <title>Murali Krishna</title>
- <link href="http://username.github.io/atom.xml" rel="self"/>
- <link href="http://username.github.io"/>
- <updated>2016-04-22T07:50:57+05:30</updated>
- <id>http://username.github.io</id>
+ <link href="http://muralikrishnaart.com/atom.xml" rel="self"/>
+ <link href="http://muralikrishnaart.com"/>
+ <updated>2016-04-27T00:24:30+05:30</updated>
+ <id>http://muralikrishnaart.com</id>
  <author>
    <name>Murali Krishna</name>
    <email>blah@email.test</email>
